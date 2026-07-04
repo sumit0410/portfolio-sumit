@@ -22,7 +22,7 @@ export default function About() {
           <img
             src="./skg1.png"
             alt="Profile Image"
-            className="w-60 rounded-2xl   sm:w-100"
+            className="w-60 rounded-2xl sm:w-70"
           />
         </div>
         <div className="md:col-span-2 space-y-6  text-zinc-400 font-light leading-relaxed text-base sm:text-lg">
