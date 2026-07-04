@@ -76,8 +76,8 @@ export default function Navbar() {
             <img
               width="20"
               height="20"
-              className="rounded-full"
-              src={"./skg1.png"}
+              className="rounded-full rotate-360 group-hover:scale-125 transition-transform"
+              src={"./sumit2.jpeg"}
               alt="sumit"
             />
             <span className="font-mono text-sm tracking-wider font-semibold text-zinc-100">

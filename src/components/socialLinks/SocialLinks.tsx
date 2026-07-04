@@ -65,7 +65,7 @@ export default function SocialLinks({ variant = "dock" }) {
           rel="noopener noreferrer"
           download={social.download}
           whileHover={{ y: -2 }}
-          className="flex items-center gap-2 bg-zinc-900/60  hover:text-amber-300 text-zinc-400  rounded-xl text-xs font-mono transition-colors duration-200"
+          className="flex items-center gap-2 bg-zinc-900/60  hover:text-amber-500/30 text-zinc-400  rounded-xl text-xs font-mono transition-colors duration-200"
         >
           {social.icon}
         </motion.a>
